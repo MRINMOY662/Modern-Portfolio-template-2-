@@ -16,6 +16,6 @@
 
 # Preview:
 
- [!Masterhead(/preview.jpg)]
+ ![Masterhead](/preview.jpg)
 
 
